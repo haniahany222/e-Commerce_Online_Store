@@ -1,16 +1,26 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# ShopEase - e-commerce Online Store 
+ShopEase is a modern, responsive single-page e-Commerce web application built using **React** and **Vite**.
+The application faetures a secure and interactive user authentication system, dynamic product showcasing, and responsive layouts tailored for a seamless user experience.
 
-Currently, two official plugins are available:
+# Live Demo
+You can check out the live deployment of the project here:
+[Live Demo Link:](https://e-commerce-online-store-rho.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+# Features 
+* **User Authentication:** Dynamic Sign-In/Login validation logic to secure user sessions.
+* **Dynamic Product Listing:** Interactive display of premium items (Laptops, Smartphones, Smartwatches, Headphones) with details.
+* **State Management:** Built using React Hooks (`useState`, `useEffect`) to manage user states and product catalog efficiently.
 
-## React Compiler
+# Tech Stack
+* **Frontend:** React.js (Functional Components)
+* **Build Tool:** Vite
+* **Styling:** CSS/Bootstrap
+* **Deployment:** Vercel
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Installation & Setup
+To run this project locally, follow these steps:
+1. **Clone the repository:**
+```bash
+git clone [https://github.com/haniahany222/e-Commerce_Online_Store] (https://github.com/haniahany222/e-Commerce_Online_Store)
